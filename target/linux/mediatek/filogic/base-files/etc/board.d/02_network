@@ -14,7 +14,6 @@ mediatek_setup_interfaces()
 	cmcc,xr30*|\
 	h3c,magic-nx30-pro|\
 	h3c,magic-nx30-pro-nmbm|\
-	honor,fur-602*|\
 	imou,lc-hx3001|\
 	konka,komi-a31|\
 	netis,nx31|\
@@ -55,6 +54,7 @@ mediatek_setup_interfaces()
 	cmcc,a10*|\
 	confiabits,mt7981|\
 	cudy,wr3000-v1|\
+	honor,fur-602|\
 	jcg,q30-pro|\
 	keenetic,kn3811|\
 	netis,nx32u|\
